@@ -8,7 +8,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "niyogisubizo patrick",
+  "author": "irakoze cloudine",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
